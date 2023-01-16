@@ -1,0 +1,6 @@
+export const LOGPRE = ""
+export const puppetToken = ""
+export const wechatAIToken = ""
+export const wechatAIEncodingAESKey = ""
+export const weixinWebhook = ""
+export const chatid = ""
