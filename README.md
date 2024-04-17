@@ -1,4 +1,4 @@
-# wechaty对接微信对话平台实现企业微信只能应答机器人
+# wechaty对接微信对话平台实现企业微信智能应答机器人
 ### 0. Apply Token
 You need PadLocal token to run this demo. [How to Apply Token](https://github.com/padlocal/wechaty-puppet-padlocal/wiki/How-to-Apply-Token)
 
